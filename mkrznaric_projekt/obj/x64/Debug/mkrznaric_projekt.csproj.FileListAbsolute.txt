@@ -1,0 +1,11 @@
+C:\Users\Matej\Desktop\mkrznaric_projekt\mkrznaric_projekt\bin\x64\Debug\mkrznaric_projekt.exe.config
+C:\Users\Matej\Desktop\mkrznaric_projekt\mkrznaric_projekt\bin\x64\Debug\mkrznaric_projekt.exe
+C:\Users\Matej\Desktop\mkrznaric_projekt\mkrznaric_projekt\bin\x64\Debug\mkrznaric_projekt.pdb
+C:\Users\Matej\Desktop\mkrznaric_projekt\mkrznaric_projekt\bin\x64\Debug\SwiPlCs.dll
+C:\Users\Matej\Desktop\mkrznaric_projekt\mkrznaric_projekt\bin\x64\Debug\SwiPlCs.xml
+C:\Users\Matej\Desktop\mkrznaric_projekt\mkrznaric_projekt\obj\x64\Debug\mkrznaric_projekt.Form1.resources
+C:\Users\Matej\Desktop\mkrznaric_projekt\mkrznaric_projekt\obj\x64\Debug\mkrznaric_projekt.Properties.Resources.resources
+C:\Users\Matej\Desktop\mkrznaric_projekt\mkrznaric_projekt\obj\x64\Debug\mkrznaric_projekt.csproj.GenerateResource.cache
+C:\Users\Matej\Desktop\mkrznaric_projekt\mkrznaric_projekt\obj\x64\Debug\mkrznaric_projekt.csproj.CopyComplete
+C:\Users\Matej\Desktop\mkrznaric_projekt\mkrznaric_projekt\obj\x64\Debug\mkrznaric_projekt.exe
+C:\Users\Matej\Desktop\mkrznaric_projekt\mkrznaric_projekt\obj\x64\Debug\mkrznaric_projekt.pdb
